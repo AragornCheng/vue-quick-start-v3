@@ -1,5 +1,7 @@
 # vue-quick-start-v3
 
+> Building an engineered Vue 3 project, integrated with Vite + Vue3 + TypeScript + ESLint + Prettier + Commitizen + Husky + LintStaged + CommitLint + AutoImport + ReleaseIt.
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
